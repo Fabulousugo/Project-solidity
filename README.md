@@ -62,7 +62,7 @@ Additional Information:
 The project contract has been compiled and deployed to the polygon mainnet, we could have used the mumbai testnet, but we wont be able to get the full functionalities required. Also note that interacting with the app uses real money,make sure you understand the implications before you proceed.<br/>
 
 
-**Usage**
+*Usage
 
 ** Tech Stack
 
