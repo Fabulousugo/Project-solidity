@@ -62,7 +62,6 @@ Additional Information:
 The project contract has been compiled and deployed to the polygon mainnet, we could have used the mumbai testnet, but we wont be able to get the full functionalities required. Also note that interacting with the app uses real money,make sure you understand the implications before you proceed.<br/>
 
 
-*Usage
 
 ** Tech Stack
 
@@ -127,15 +126,72 @@ The project contract has been compiled and deployed to the polygon mainnet, we c
 
 
 
-**How to Contribute**
+## 🔮 Usage
+To use this application as your own, follow these simple steps:
+<!-- 
+>- 
+>- 
+>-  -->
+<ul>
+<li><p>
 
-- to contribute to this project, simply fork a branch and develop.
+Fork this Repository (`https://github.com/Fabulousugo/Project-solidity.git`)
+</p></li>
+<li><p>
+
+Install Dependecies (`npm install`)
+
+</p></li>
+<li><p>
+
+Run Project (`npm start`)
+</p></li>
+
+</ul>
+
+## 🤝 Contribute
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are <strong>greatly appreciated</strong>. 😊
+<p>
+&emsp;1. Fork Project
+
+</p>
+<p>
+
+&emsp;2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+</p>
+
+<p>
+
+&emsp;3. Commit your changes(`git commit -m "Add Some AmazingFeature" `)
+</p>
+
+<p>
+
+&emsp;4. Push to the Branch (`git push origin feature/AmazingFeature`)
+</p>
+
+<p>
+&emsp;5. Open a Pull Request
+
+</p>
+
+
+
+
+
+
+<br/>
+<br/>
+<br/>
 
 
 **Implementation Details**
 
-- The project makes use of abis from an already deployed contract, majority of the codes written were for the front-end, locate the src folder. It contains the main.ts, trace out the routes.
+- The project makes use of abis from an already deployed contract, majority of the codes written were for the front-end, locate the src folder. It contains the main.ts, trace out the routes.<br/>
+
+
 **License**
+
 MIT License
 
 Copyright (c) [2023] [Ugochukwu Precious Onah]
