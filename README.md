@@ -35,7 +35,8 @@ Create posts
 **Project Author**
 
 -Fabulousugo
-
+<br/>
+<br/>
 ****How to Install and Run the Project****
 
 -- Clone the repository
@@ -56,13 +57,14 @@ npm run dev
 npm run build
 npm start
 ```
-
+<br/>
+<br/>
 Additional Information:
 * __Contract compilation__ : <br><br>
 The project contract has been compiled and deployed to the polygon mainnet, we could have used the mumbai testnet, but we wont be able to get the full functionalities required. Also note that interacting with the app uses real money,make sure you understand the implications before you proceed.<br/>
 
 
-
+<br/>
 ** Tech Stack
 
 - [Next.js](https://nextjs.org/): 🐐 React framework for production.
@@ -88,7 +90,9 @@ The project contract has been compiled and deployed to the polygon mainnet, we c
 
 - [Tanstack (React) Query](https://tanstack.com/query/v4): 🐶 A powerful, flexible, and extensible data fetching and caching library for React.
   - [@graphql-codegen/typescript-react-query](https://the-guild.dev/graphql/codegen/plugins/typescript/typescript-react-query) Auto-generate strongly typed React Query hooks for queries and mutations based on your `.graphql` files. [Demo](https://twitter.com/jarrodWattsDev/status/1602534171284426754).
-  
+<br/>
+<br/>
+<br/>
   ## Roadmap
   #Note that the Lens protocol is stil in it's developmental stages, therefore it is not yet a fully developed. We will keep working to make the dream of a truly decentralized web3 social media application come TRUE.
 
@@ -124,7 +128,8 @@ The project contract has been compiled and deployed to the polygon mainnet, we c
 - ❌ Search publications
 - ❌ Notifications
 
-
+<br/>
+<br/>
 
 ## 🔮 Usage
 To use this application as your own, follow these simple steps:
@@ -189,7 +194,8 @@ Contributions are what make the open source community such an amazing place to b
 
 - The project makes use of abis from an already deployed contract, majority of the codes written were for the front-end, locate the src folder. It contains the main.ts, trace out the routes.<br/>
 
-
+<br/>
+<br/>
 **License**
 
 MIT License
