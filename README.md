@@ -9,6 +9,7 @@ A decentralized social media  platform built on top of the [Lens Protocol](https
 - View a Personalised [Feed](https://docs.lens.xyz/docs/timeline) of posts from creators you follow.<br/>
 <br/>
 <br/>
+
 ## **Project Snapshot**<br/>
 
 
