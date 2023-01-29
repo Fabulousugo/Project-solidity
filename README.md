@@ -6,8 +6,10 @@ A decentralized social media  platform built on top of the [Lens Protocol](https
 
 - Own your [Profile](https://docs.lens.xyz/docs/profile) as an NFT.<br/>
 - Write posts in [markdown](https://www.markdownguide.org/), store them on [IPFS](https://portal.thirdweb.com/storage) and attach them to your profile NFT inside a [mapping](https://docs.soliditylang.org/en/v0.8.17/types.html#mapping-types).<br/>
-- View a Personalised [Feed](https://docs.lens.xyz/docs/timeline) of posts from creators you follow.
-**Project Snapshot**
+- View a Personalised [Feed](https://docs.lens.xyz/docs/timeline) of posts from creators you follow.<br/>
+<br/>
+<br/>
+**Project Snapshot**<br/>
 
 
 *Homepage
