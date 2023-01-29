@@ -20,6 +20,31 @@ import SnackbarContextProvider, {
 } from "../context/SnackbarContext";
 import SnackbarComponent from "../components/snackbar/Snackbar";
 
+
+/*
+This code is a Next.js custom app component, which sets up and wraps the main component of a Next.js app with various providers, such as the ThirdwebProvider, QueryClientProvider, and LensUserContextProvider, etc.
+
+It uses the CacheProvider from @emotion/react to provide an emotion cache for CSS-in-JS styling. It sets up the ThirdwebProvider with a desired ChainId of Polygon for Ethereum network interaction.
+It sets up a QueryClient for managing data fetching with @tanstack/react-query.
+It uses the ThemeProvider from @mui/material to provide a Material UI theme for styling the components.
+
+The component also sets up context providers for modal state and snackbar state with GlobalInformationModalContextProvider and SnackbarContextProvider, respectively. 
+The modal and snackbar components are shown based on the state of these contexts.
+
+It also sets up a progress bar with NextNProgress. It temporarily hides the header component on the /create page and sets up a default header component.
+
+Finally, it renders the main component with the passed pageProps and the above providers.
+
+
+
+
+
+*/
+
+
+
+
+
 // thirwdeb setup
 const desiredChainId = ChainId.Polygon;
 
