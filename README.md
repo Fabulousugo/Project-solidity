@@ -9,7 +9,7 @@ A decentralized social media  platform built on top of the [Lens Protocol](https
 - View a Personalised [Feed](https://docs.lens.xyz/docs/timeline) of posts from creators you follow.<br/>
 <br/>
 <br/>
-**Project Snapshot**<br/>
+## **Project Snapshot**<br/>
 
 
 *Homepage
@@ -28,16 +28,16 @@ Create posts
   ![Screenshot (41)](https://user-images.githubusercontent.com/113071405/214680132-20b12f6b-de57-4d18-8495-dd9cfbae2cf4.png)
 
 
-**Project Website Link**
+## **Project Website Link**
 
 - https://immunyty.netlify.app
 
-**Project Author**
+## **Project Author**
 
 -Fabulousugo
 <br/>
 <br/>
-****How to Install and Run the Project****
+## **How to Install and Run the Project**
 
 -- Clone the repository
 ```git
@@ -65,7 +65,8 @@ The project contract has been compiled and deployed to the polygon mainnet, we c
 
 
 <br/>
-** Tech Stack
+
+## **Tech Stack** <br/>
 
 - [Next.js](https://nextjs.org/): 🐐 React framework for production.
 
@@ -93,7 +94,9 @@ The project contract has been compiled and deployed to the polygon mainnet, we c
 <br/>
 <br/>
 <br/>
-  ## Roadmap
+
+
+## **Roadmap** <br/>
   #Note that the Lens protocol is stil in it's developmental stages, therefore it is not yet a fully developed. We will keep working to make the dream of a truly decentralized web3 social media application come TRUE.
 
 - ✅ Sign in with Lens
@@ -131,7 +134,7 @@ The project contract has been compiled and deployed to the polygon mainnet, we c
 <br/>
 <br/>
 
-## 🔮 Usage
+## **🔮Usage**
 To use this application as your own, follow these simple steps:
 <!-- 
 >- 
@@ -154,7 +157,7 @@ Run Project (`npm start`)
 
 </ul>
 
-## 🤝 Contribute
+## **🤝Contribute**
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are <strong>greatly appreciated</strong>. 😊
 <p>
 &emsp;1. Fork Project
@@ -190,13 +193,15 @@ Contributions are what make the open source community such an amazing place to b
 <br/>
 
 
-**Implementation Details**
+## **Implementation Details**
 
 - The project makes use of abis from an already deployed contract, majority of the codes written were for the front-end, locate the src folder. It contains the main.ts, trace out the routes.<br/>
 
 <br/>
 <br/>
-**License**
+
+
+## **License** <br/>
 
 MIT License
 
