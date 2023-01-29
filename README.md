@@ -1,8 +1,6 @@
-**Project Title**
 
-- Immunyty<br/>
 
-**Project Description**
+# Immunyty<br/>
 
 A decentralized social media  platform built on top of the [Lens Protocol](https://www.lens.xyz/).
 
