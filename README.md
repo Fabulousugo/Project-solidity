@@ -10,6 +10,14 @@ A decentralized social media  platform built on top of the [Lens Protocol](https
 <br/>
 <br/>
 
+## **Project Demo**
+
+**You will have to have a lens profile to be able to follow a user**
+
+https://user-images.githubusercontent.com/113071405/215862009-83dfc57a-2091-40bc-8f41-ec170d6a7e3b.mp4
+
+
+
 ## **Project Snapshot**<br/>
 
 
