@@ -7,6 +7,18 @@ A decentralized social media  platform built on top of the [Lens Protocol](https
 - Own your [Profile](https://docs.lens.xyz/docs/profile) as an NFT.<br/>
 - Write posts in [markdown](https://www.markdownguide.org/), store them on [IPFS](https://portal.thirdweb.com/storage) and attach them to your profile NFT inside a [mapping](https://docs.soliditylang.org/en/v0.8.17/types.html#mapping-types).<br/>
 - View a Personalised [Feed](https://docs.lens.xyz/docs/timeline) of posts from creators you follow.<br/>
+
+# Deployed Contract address<br/>
+0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d <br/>
+// Learn how we use the thirdweb SDK to connect to the Lens smart contract using it's ABI: <br/>
+// https://blog.thirdweb.com/guides/how-to-use-any-smart-contract-with-thirdweb-sdk-using-abi/ <br/>
+
+
+# Contract ABI Link <br/>
+https://github.com/Fabulousugo/Project-solidity/blob/main/const/abis.ts <br/>
+
+# Polygon Scan address <br/>
+https://polygonscan.com/address/0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d
 <br/>
 <br/>
 
