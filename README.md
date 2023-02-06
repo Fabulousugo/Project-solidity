@@ -15,11 +15,17 @@ A decentralized social media  platform built on top of the [Lens Protocol](https
 // Learn how we use the thirdweb SDK to connect to the Lens smart contract using it's ABI: <br/>
 // https://blog.thirdweb.com/guides/how-to-use-any-smart-contract-with-thirdweb-sdk-using-abi/ <br/>
 
+# Polygon Scan Contract <br/>
+
+https://polygonscan.com/address/0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d#code
+<br/>
+
+
 
 # Contract ABI Link <br/>
 https://github.com/Fabulousugo/Project-solidity/blob/main/const/abis.ts <br/>
 
-# Polygon Scan address <br/>
+# Polygon Scan address Transactions <br/>
 https://polygonscan.com/address/0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d
 <br/>
 <br/>
