@@ -10,6 +10,8 @@ A decentralized social media  platform built on top of the [Lens Protocol](https
 
 # Deployed Contract address<br/>
 0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d <br/>
+<br/>
+<br/>
 // Learn how we use the thirdweb SDK to connect to the Lens smart contract using it's ABI: <br/>
 // https://blog.thirdweb.com/guides/how-to-use-any-smart-contract-with-thirdweb-sdk-using-abi/ <br/>
 
